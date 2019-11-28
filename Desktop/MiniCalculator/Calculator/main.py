@@ -12,7 +12,7 @@ class GuiApp(object):
    
     def __init__(self):
         self.root = Tk()
-        self.root.wm_title("My Calculator")
+        self.root.wm_title("Calculator")
         self.root.configure(background='black')
 
         # variables declaration
