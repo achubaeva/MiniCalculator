@@ -1,2 +1,2 @@
-# MiniCalculator
-Calculator app using Python Tkinter
+Mini Calculator 
+Calculator UI using Python Tkinter
